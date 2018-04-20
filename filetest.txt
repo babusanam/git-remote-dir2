@@ -1,3 +1,7 @@
-dding devloment
-C
-Insert some content
+
+
+
+
+=======
+dding feature1 content
+>>>>>>> feature1
