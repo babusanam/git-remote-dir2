@@ -1,0 +1,50 @@
+body
+{
+  font-family: 'Open Sans' , sans-serif;
+}
+h1,h3,h4,h5,h6{
+  font-style: :20px;
+  font-family: 'Open Sans', sans-serif;
+  color:rgba(0,255,0,1);
+  background-color: #A52A2A;
+}
+h2{
+  font-style: :18px;
+  font-family: 'Open Sans', sans-serif;
+  color:brown;
+}
+#special
+{
+  text-align:center;
+  color:#A52A2A;
+
+}
+#special1
+{text-decoration: underline;
+  color: green;
+
+}
+.para{
+  text-align:justify;
+  font-size: 30px;
+
+}
+.para1{
+  color:blue;
+
+}
+.head{
+  font-size:32px;
+}
+h4.head{
+color : blue;
+}
+p span
+{
+  text-decoration: line-through;
+  color: red;
+}
+.para .span1{
+  font-size: 30px;
+  color:black;
+}
